@@ -1,0 +1,12 @@
+.jumbotron {
+    background-color: white;
+}
+
+h1, .card-header, .card-title {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
