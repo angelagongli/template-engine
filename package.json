@@ -1,0 +1,29 @@
+{
+  "name": "template-engine",
+  "version": "1.0.0",
+  "description": "Team roster generator using templates filled with user input at the command line",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^7.0.6"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelagongli/template-engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelagongli/template-engine/issues"
+  },
+  "homepage": "https://github.com/angelagongli/template-engine#readme"
+}
